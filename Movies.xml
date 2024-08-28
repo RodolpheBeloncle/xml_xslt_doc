@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="Movies.xslt" ?>
+<!-- This file contains the initial movies that will be displayed IN XML FORMAT -->
+<Collection>
+    <Movie>
+        <Title>Star Wars</Title>
+        <Director>George Lucas</Director>
+        <Year>1977</Year>
+        <Rating>PG</Rating>
+    </Movie>
+    <Movie>
+        <Title>Indiana Jones</Title>
+        <Director>Steven Spielberg</Director>
+        <Year>1981</Year>
+        <Rating>PG</Rating>
+    </Movie>
+    <Movie>
+        <Title>Back to the Future</Title>
+        <Director>Robert Zemeckis</Director>
+        <Year>1985</Year>
+        <Rating>PG</Rating>
+    </Movie>
+    <Movie>
+        <Title>Ghostbusters</Title>
+        <Director>Ivan Reitman</Director>
+        <Year>1984</Year>
+        <Rating>PG</Rating>
+    </Movie>
+</Collection>
+
+   
